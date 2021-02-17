@@ -1,0 +1,22 @@
+{
+  "name": "GofMediatorSwiftDemo",
+  "version": "0.1.0",
+  "summary": "A short description of GofMediatorSwiftDemo.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/279352257@qq.com/GofMediatorSwiftDemo",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "279352257@qq.com": "ligfufida@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/279352257@qq.com/GofMediatorSwiftDemo.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "GofMediatorSwiftDemo/Classes/**/*"
+}

@@ -1,0 +1,1 @@
+../../../GofKitLib/GofKit/UIImage+GofCapture.h

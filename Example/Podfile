@@ -1,0 +1,19 @@
+#use_frameworks!
+use_modular_headers!
+
+platform :ios, '11.0'
+
+target 'GofMediatorSwiftDemo_Example' do
+#  pod 'GofMediatorCategory', :git => 'git@github.com:LeeGof/GofMediatorCategory.git', :tag => '0.1.0'
+#  pod 'GofMediatorExtension', :git => 'git@github.com:LeeGof/GofMediatorExtension.git', :tag => '0.1.0'
+  pod 'GofMediatorCategory', '0.1.0'
+  pod 'GofMediatorExtension', '0.1.0'
+  pod 'GofAModule', '0.2.0'
+  pod 'GofBModule', '0.1.0'
+  pod 'GofMediator', '0.2.0'
+
+  target 'GofMediatorSwiftDemo_Tests' do
+    inherit! :search_paths
+
+  end
+end

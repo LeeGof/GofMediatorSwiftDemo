@@ -1,0 +1,6 @@
+module GofMediator {
+  umbrella header "GofMediator-umbrella.h"
+
+  export *
+  module * { export * }
+}

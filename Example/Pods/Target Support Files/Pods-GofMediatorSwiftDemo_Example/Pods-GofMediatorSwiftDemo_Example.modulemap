@@ -1,0 +1,6 @@
+module Pods_GofMediatorSwiftDemo_Example {
+  umbrella header "Pods-GofMediatorSwiftDemo_Example-umbrella.h"
+
+  export *
+  module * { export * }
+}

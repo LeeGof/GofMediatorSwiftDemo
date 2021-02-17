@@ -1,0 +1,42 @@
+PODS:
+  - GofAModule (0.2.0):
+    - GofKitLib (= 0.0.4)
+  - GofBModule (0.1.0)
+  - GofKitLib (0.0.4):
+    - Masonry (= 1.1.0)
+  - GofMediator (0.2.0)
+  - GofMediatorCategory (0.1.0):
+    - GofMediator
+  - GofMediatorExtension (0.1.0):
+    - GofMediator
+  - Masonry (1.1.0)
+
+DEPENDENCIES:
+  - GofAModule (= 0.2.0)
+  - GofBModule (= 0.1.0)
+  - GofMediator (= 0.2.0)
+  - GofMediatorCategory (= 0.1.0)
+  - GofMediatorExtension (= 0.1.0)
+
+SPEC REPOS:
+  trunk:
+    - GofAModule
+    - GofBModule
+    - GofKitLib
+    - GofMediator
+    - GofMediatorCategory
+    - GofMediatorExtension
+    - Masonry
+
+SPEC CHECKSUMS:
+  GofAModule: 6a0f73cb60d38274df813ecd1644337a941fed7c
+  GofBModule: b681ffdd1567f105e0f159146cae8446dc580cba
+  GofKitLib: 96c16a07def0c7ae5686e66dc1e920f0f4df7db3
+  GofMediator: 242658ce953b534ffa7d0a72887a000ea83ddf04
+  GofMediatorCategory: 372fd4d8dca538e876c401a982ad96d5a14ec2f2
+  GofMediatorExtension: bd5455c0bc726ce99a7c21f4e31824fffe32bf6f
+  Masonry: 678fab65091a9290e40e2832a55e7ab731aad201
+
+PODFILE CHECKSUM: 1c51b4eb0912649c9e9113f721ed263bdd3574aa
+
+COCOAPODS: 1.9.1

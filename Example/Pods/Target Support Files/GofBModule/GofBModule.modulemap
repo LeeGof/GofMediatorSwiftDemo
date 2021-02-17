@@ -1,0 +1,6 @@
+module GofBModule {
+  umbrella header "GofBModule-umbrella.h"
+
+  export *
+  module * { export * }
+}

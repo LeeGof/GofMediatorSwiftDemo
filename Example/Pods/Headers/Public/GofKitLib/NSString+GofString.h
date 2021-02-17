@@ -1,0 +1,1 @@
+../../../GofKitLib/GofKit/NSString+GofString.h
